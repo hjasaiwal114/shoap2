@@ -1,0 +1,15 @@
+# Ignore .env files
+.env
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# ignore aws script
+soap2 ass.pem
+
+eval "$(ssh-agent -s)"
+
+eval "$(ssh-agent -s)".pub
